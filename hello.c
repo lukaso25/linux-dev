@@ -3,6 +3,6 @@
 
 int main( void)
 {
-	printf("Hello KODING!!!");
+	printf("Hello World from KODING!!!");
 	return 0;
 }
